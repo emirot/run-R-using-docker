@@ -3,6 +3,7 @@ An example of running R using Docker
 
 
 Build image :
+
 ```docker build . -t my-r```
 
 Run :
